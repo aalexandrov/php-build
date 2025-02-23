@@ -19,6 +19,7 @@
 --with-mysqli=mysqlnd
 --with-pdo-mysql=mysqlnd
 --with-pdo-sqlite
+--with-pdo-pgsql
 --enable-pcntl
 --with-readline
 --enable-mbstring
